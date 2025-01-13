@@ -3,7 +3,8 @@ Welcome to my profile, hopefully you find something you like. <br>
 
 
 ## 📈 my github stats
-[![SebastianRautenbach's Stats](https://github-readme-stats.vercel.app/api?username=SebastianRautenbach)](https://github.com/SebastianRautenbach/github-readme-stats)
+
+[![SebastianRautenbach's Stats](https://github-readme-stats.vercel.app/api?username=SebastianRautenbach&show_icons=true&theme=radical)
 
 <!--
 **SebastianRautenbach/SebastianRautenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
