@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my profile, hopefully you find something you like. <br>
+
+
+## 📈 my github stats
 [![SebastianRautenbach's Stats](https://github-readme-stats.vercel.app/api?username=SebastianRautenbach)](https://github.com/SebastianRautenbach/github-readme-stats)
 
 <!--
