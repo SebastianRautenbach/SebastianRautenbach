@@ -6,6 +6,10 @@ Welcome to my profile, hopefully you find something you like. <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mongodb,c,java,blender,mysql,nodejs,react,ts,unreal,unity,github,firebase,androidstudio)](https://skillicons.dev)
 
 
+## My Current Objective
+Develop a fully open-source game engine designed to rival Unity and Unreal Engine 4-5, empowering the community with complete customization and modification capabilities.
+
+
 ## 📈 my github stats
 
 ![SebastianRautenbach's Stats](https://github-readme-stats.vercel.app/api?username=SebastianRautenbach&show_icons=true&theme=radical)
