@@ -8,6 +8,8 @@ Welcome to my profile, hopefully you find something you like. <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRautenbach&layout=compact)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianRautenbach\&layout=compact)
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?&SebastianRautenbach&layout=compact&&theme=default&link=https://www.github.com/SebastianRautenbach/">
+
 <!--
 **SebastianRautenbach/SebastianRautenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
