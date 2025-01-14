@@ -2,11 +2,11 @@
 Welcome to my profile, hopefully you find something you like. <br>
 
 
-## My Skills
+## 🎓 My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mongodb,c,java,blender,mysql,nodejs,react,ts,unreal,unity,github,firebase,androidstudio)](https://skillicons.dev)
 
 
-## My Current Objective
+## 🎯 My Current Objective
 Develop a fully open-source
 <a href="https://github.com/SebastianRautenbach/3D-Game-Engine" style="display: inline-block; background-color: #0366d6; color: white; padding: 10px 15px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Game Engine
