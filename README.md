@@ -3,7 +3,7 @@ Welcome to my profile, hopefully you find something you like. <br>
 
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mongodb,c,java,blender,mysql,nodejs,react,ts,unreal,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mongodb,c,java,blender,mysql,nodejs,react,ts,unreal,unity,github,firebase)](https://skillicons.dev)
 
 
 ## 📈 my github stats
