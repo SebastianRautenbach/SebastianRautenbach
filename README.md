@@ -20,6 +20,8 @@ designed to rival Unity and Unreal Engine 4-5, empowering the community with com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRautenbach&layout=compact)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianRautenbach\&layout=compact)
 
+## 🤝 Socials
+
 <table>
 <tr>
  <td align="center">
