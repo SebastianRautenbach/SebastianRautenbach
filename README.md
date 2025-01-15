@@ -20,13 +20,21 @@ designed to rival Unity and Unreal Engine 4-5, empowering the community with com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRautenbach&layout=compact)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianRautenbach\&layout=compact)
 
+<table>
 <tr>
  <td align="center">
         <a href="https://www.linkedin.com/in/sebastian-rautenbach-82b53427a/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </td>
+    <td align="center">
+        <a href="https://discord.gg/3hxfPB7NrN" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+      </td>
 </tr>
+    
+</table>
 <!--
 **SebastianRautenbach/SebastianRautenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
