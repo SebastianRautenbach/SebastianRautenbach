@@ -33,7 +33,7 @@ designed to rival Unity and Unreal Engine 4-5, empowering the community with com
         </a>
       </td>
     <td align="center">
-        <a href="sebastianrautenbachwork@gmail.com" target="-blank">
+        <a href="mailto:sebastianrautenbachwork@gmail.com" target="-blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
         </a>
     </td>
