@@ -18,7 +18,7 @@ designed to rival Unity and Unreal Engine 4-5, empowering the community with com
 
 ![SebastianRautenbach's Stats](https://github-readme-stats.vercel.app/api?username=SebastianRautenbach&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRautenbach&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianRautenbach)](https://github.com/SebastianRautenbach/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SebastianRautenbach\&layout=compact)
 
 <!--
 **SebastianRautenbach/SebastianRautenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
